@@ -32,7 +32,7 @@ local function main()
         end
 
         mouse1click()
-        delay(3, function()
+        delay(4, function()
             mouse1click()
         end)
 
@@ -52,17 +52,17 @@ local function main()
             local mainUI = giveInterface(3)
             if mainUI then
                 local floor, bird = mainUI:FindFirstChild("Floor"), mainUI:FindFirstChild("Bird")
-
+                
                 if floor and bird then
                     floor:Destroy()
-                    delay(1500, function()
-                        bird.Position = UDim2.new(bird.Position.X.Scale, bird.Position.X.Offset, bird.Position.Y.Scale, 0)
-                    end)
+
+                    task.wait(1500)
+                    bird.Position = UDim2.new(bird.Position.X.Scale, bird.Position.X.Offset, bird.Position.Y.Scale, 0)
                 end
             end
 
             playCount += 1
-            task.wait(6)
+            task.wait(8)
         end
     end
 end
