@@ -1,7 +1,7 @@
 # Flappy Bird Autofarmer
 Too lazy to grind TIX like me?
 
-Use this to quickly and **very efficiently** farm TIX and earn upwards of ~**50,000** TIX per day. (24h)
+Use this to quickly and **very efficiently** farm TIX and earn upwards of ~**250,000** TIX per day assuming consistent farming. (24h)
 
 ## How-To Play
 1. Actually play a **working PBB clone**. (Favorite: https://bronzeforever.net/play/)
