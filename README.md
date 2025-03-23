@@ -12,6 +12,14 @@ Use this to quickly and **very efficiently** farm TIX and earn upwards of ~**250
 6. Stand in view of the middle Machine, where the Play buttons are visible. (Easiest to play + Farm is designed for it)
 7. Run the script & leave when you're done! (This is the only way to close the farmer)
 
+## Script
+Copy and paste the following script into your executor of choice and AFK!
+> ```lua
+> loadstring(game:HttpGet(
+>   "https://github.com/Some-Cool-Stuffs/Flappy-Owlet-Auto-Player/blob/main/main.luau?raw=true"
+> ))()
+> ```
+
 ## Visuals
 Here's a visual sample on what your game would actually look like when it's working.
 > ![{Gameplay}](https://github.com/user-attachments/assets/69bb0c56-a922-4378-9b21-8d28ff326854)
