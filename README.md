@@ -5,7 +5,7 @@ Use this to quickly and **very efficiently** farm TIX and earn upwards of ~**250
 
 ## How-To Play
 1. Actually play a **working PBB clone**. (Favorite: https://bronzeforever.net/play/)
-2. Download & use a **working ROBLOX executor**. (Favorite: https://buyawp.gg/)
+2. Download & use a **working ROBLOX executor**. (Favorite: https://discord.gg/r6J3tMFYrh/)
 3. Manually grind your way up to **Anthian City**. (City for the 4th gym badge)
 4. Go to the **Park region** and head into the **Golden Pokeball**. (You'll see it)
 5. Make your way over to the **Arcade**, and locate the Flappy Owlet game. (Near the enterence, to the left)
